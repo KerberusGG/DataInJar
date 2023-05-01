@@ -1,11 +1,12 @@
 {
   "schemaVersion": 1,
-  "id": "changethis",
+  "id": "chosen_origins_greek",
   "version": "${version}",
-  "name": "CHANGETHIS",
-  "description": "",
+  "name": "Chosen Origins: Greek",
+  "description": "Chosen Origins: Greek adds new thematic origins inspired by Greek mythology and history to the Origins mod, providing players with unique starting bonuses and gameplay changes.",
   "authors": [
-    "Kerberus"
+    "Kerberus",
+	  "jetuit"
   ],
   "contact": {},
   "license": "All-Rights-Reserved",
